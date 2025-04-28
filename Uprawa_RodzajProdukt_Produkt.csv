@@ -1,5 +1,6 @@
 IdUprawa_RodzajProdukt;IdProdukt;NazwaUprawa_RodzajProdukt_Produkt;IdStatus;Status;DataDodania;DodanyPrzez;DataModyfikacji;ZmodyfikowanyPrzez;DataUsuniecia;UsunietyPrzez
-01.11.11.0_113;01.11.50.0;Pszenica durum na łuski/plewy;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
+01.11.11.0_101;01.11.11.0;Pszenica durum na ziarno;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
+01.11.11.0_111;01.11.11.0;Pszenica durum na nasiona/sadzonki;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.12.0_109;01.11.12.0;Pozostała pszenica na siano;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.12.0_102;01.11.12.0;Pozostała pszenica na owoce;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.20.0_101;01.11.20.0;Kukurydza (z wyłączeniem kukurydzy cukrowej i pastewnej) na ziarno;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
@@ -12,19 +13,19 @@ IdUprawa_RodzajProdukt;IdProdukt;NazwaUprawa_RodzajProdukt_Produkt;IdStatus;Stat
 01.11.43.0_110;01.11.50.0;Pszenżyto na słomę;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.49.0_107;01.11.49.0;Pozostałe zboża na liście;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.50.0_109;01.11.50.0;Słoma i plewy zbóż na siano;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
-01.11.61.0_114;01.11.61.0;Fasola na kwiaty;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
+01.11.61.0_114;01.11.61.0;"Fasola na kwiaty";D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.62.0_108;01.11.62.0;Groch na zielonkę;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.62.0_110;01.11.50.0;Groch na słomę;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.69.0_102;01.11.69.0;Pozostałe warzywa strączkowe, świeże lub schłodzone na owoce;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.69.0_109;01.11.69.0;Pozostałe warzywa strączkowe, świeże lub schłodzone na siano;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
-01.11.71.0_111;01.11.71.0;Fasola, suszona na nasiona/sadzonki;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
-01.11.71.0_104;01.11.71.0;Fasola, suszona na korzenie;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
+01.11.71.0_111;01.11.71.0;"Fasola, suszona na nasiona/sadzonki";D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
+01.11.71.0_104;01.11.71.0;"Fasola, suszona na korzenie";D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.72.0_113;01.11.50.0;Bób i bobik, suszone na łuski/plewy;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.72.0_112;01.11.50.0;Bób i bobik, suszone na nawóz zielony;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.73.0_115;01.11.73.0;Ciecierzyca (cieciorka), suszona na strąki;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.74.0_110;01.11.50.0;Soczewica, suszona na słomę;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.75.0_101;01.11.75.0;Groch, suszony na ziarno;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
-01.11.76.0_104;01.11.76.0;Fasolnik chiński, suszony na korzenie;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
+01.11.76.0_104;01.11.76.0;"Fasolnik chiński, suszony na korzenie";D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.77.0_103;01.11.77.0;Nikla indyjska, suszona na bulwy;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.77.0_105;01.11.77.0;Nikla indyjska, suszona na kłącza;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.11.79.0_112;01.11.79.0;Warzywa strączkowe suszone, gdzie indziej niesklasyfikowane na nawóz zielony;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
@@ -113,8 +114,8 @@ IdUprawa_RodzajProdukt;IdProdukt;NazwaUprawa_RodzajProdukt_Produkt;IdStatus;Stat
 01.22.12.0_107;01.22.12.0;Banany, plantany itp. na liście;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.22.12.0_105;01.22.12.0;Banany, plantany itp. na kłącza;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.22.13.0_103;01.22.13.0;Daktyle na bulwy;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
-01.22.14.0_108;01.22.14.0;Figi na zielonkę;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
-01.22.14.0_104;01.22.14.0;Figi na korzenie;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
+01.22.14.0_108;01.22.14.0;"Figi na zielonkę";D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
+01.22.14.0_104;01.22.14.0;"Figi na korzenie";D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.22.19.0_102;01.22.19.0;Pozostałe świeże owoce tropikalne i podzwrotnikowe na owoce;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.22.19.0_104;01.22.19.0;Pozostałe świeże owoce tropikalne i podzwrotnikowe na korzenie;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.23.11.0_108;01.23.11.0;Pomelo i grejpfruty na zielonkę;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
@@ -193,4 +194,4 @@ IdUprawa_RodzajProdukt;IdProdukt;NazwaUprawa_RodzajProdukt_Produkt;IdStatus;Stat
 01.29.30.0_111;01.29.30.0;Materiały roślinne w rodzaju stosowanych głównie do wyplatania, wyściełania, wypychania lub w farbowaniu lub garbowaniu na nasiona/sadzonki;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.29.30.0_112;01.29.30.0;Materiały roślinne w rodzaju stosowanych głównie do wyplatania, wyściełania, wypychania lub w farbowaniu lub garbowaniu na nawóz zielony;D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
 01.30.10.0_101;01.30.10.0;"Materiał nasadzeniowy: rośliny żywe, cebulki, bulwy i korzenie, sadzonki i szczepy; grzybnia na ziarno";D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
-01.30.10.0_109;01.30.10.0;"Materiał nasadzeniowy: rośliny żywe, cebulki, bulwy i korzenie, sadzonki i szczepy; grzybnia na siano";D;Dodany;2025-04-08 00:11:16;Darek Osuch;;;;
+01.30.10.0_109;01.30.10.0;"Materiał nasadzeniowy: rośliny żywe, cebulki, bulwy i korzenie, sadzonki i szczepy; grzybnia na siano";;;;;;;;

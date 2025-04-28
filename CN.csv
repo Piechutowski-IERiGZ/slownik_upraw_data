@@ -62,7 +62,7 @@ IdCN;NazwaCN;OpisCN;UwagaCN;IdStatus;Status;DataDodania;DodanyPrzez;DataModyfika
 0707 00 05;Ogórki, świeże lub schłodzone;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0707 00 90;Korniszony, świeże lub schłodzone;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0708 10 00;Groch "Pisum sativum", łuskany lub niełuskany, świeży lub schłodzony;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
-0708 20 00;Fasola "Vigna spp., Phaseolus spp.", łuskana lub niełuskana,  świeża lub schłodzona;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
+0708 20 00;"Fasola "Vigna spp., Phaseolus spp.", łuskana lub niełuskana,  świeża lub schłodzona";;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0708 90 00;Warzywa strączkowe, łuskane lub niełuskane, świeże lub schłodzone (z wył. grochu "Pisum sativum" i fasoli [Vigna spp., Phaseolus spp.]);;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0709 20 00;Szparagi, świeże lub schłodzone ;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0709 30 00;Oberżyny "bakłażany", świeże lub schłodzone ;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
@@ -93,13 +93,13 @@ IdCN;NazwaCN;OpisCN;UwagaCN;IdStatus;Status;DataDodania;DodanyPrzez;DataModyfika
 0713 10 10;Groch "Pisum sativum", suszony i łuskany, do siewu;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0713 10 90;Groch "Pisum sativum", suszony i łuskany, nawet bez skórki lub dzielony (z wył. do siewu);;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0713 20 00;Ciecierzyca (cieciorka), suszona, łuskana, nawet bez skórki lub dzielona;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
-0713 31 00;Fasola z gatunku Vigna mungo (L.) Hepper lub Vigna radiata (L.) Wilczek, suszona, łuskana, nawet bez skórki lub dzielona;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
-0713 32 00;Fasolka czerwona mała "Adzuki" [Phaseolus lub Vigna angularis], suszona, łuskana, nawet bez skórki lub dzielona;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
-0713 33 10;Fasola, włącznie z białą groszkową "Phaseolus vulgaris", suszona, łuskana, do siewu;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
-0713 33 90;Fasola, włącznie z białą groszkową "Phaseolus vulgaris", suszona, łuskana, nawet bez skórki lub dzielona (z wył. do siewu);;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
+0713 31 00;"Fasola z gatunku Vigna mungo (L.) Hepper lub Vigna radiata (L.) Wilczek, suszona, łuskana, nawet bez skórki lub dzielona";;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
+0713 32 00;"Fasolka czerwona mała "Adzuki" [Phaseolus lub Vigna angularis], suszona, łuskana, nawet bez skórki lub dzielona";;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
+0713 33 10;"Fasola, włącznie z białą groszkową "Phaseolus vulgaris", suszona, łuskana, do siewu";;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
+0713 33 90;"Fasola, włącznie z białą groszkową "Phaseolus vulgaris", suszona, łuskana, nawet bez skórki lub dzielona (z wył. do siewu)";;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0713 34 00;Sorzycha ziemna (Vigna subterranea lub Voandzeia subterranea), suszona, łuskana, nawet bez skórki lub dzielona;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
-0713 35 00;Fasolnik chiński (Vigna unguiculata), suszony, łuskany, nawet bez skórki lub dzielony;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
-0713 39 00;Fasola [Vigna i Phaseolus], suszona, łuskana, nawet bez skórki lub dzielona (z wył. fasoli z gatunku "Vigna mungo (L.) Hepper lub Vigna radiata (L.) Wilczek", fasolki czerwonej, małej "Adzuki", fasoli "Phaseolus vulgaris", sorzycy ziemnej i fasolnika chińskiego);;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
+0713 35 00;"Fasolnik chiński (Vigna unguiculata), suszony, łuskany, nawet bez skórki lub dzielony";;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
+0713 39 00;"Fasola [Vigna i Phaseolus], suszona, łuskana, nawet bez skórki lub dzielona (z wył. fasoli z gatunku "Vigna mungo (L.) Hepper lub Vigna radiata (L.) Wilczek", fasolki czerwonej, małej "Adzuki", fasoli "Phaseolus vulgaris", sorzycy ziemnej i fasolnika chińskiego)";;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0713 40 00;Soczewica, suszona, łuskana, nawet bez skórki lub dzielona;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0713 50 00;Bób [Vicia aba var. major] i bobik "Vicia faba var. equina, Vicia faba var. Minor", suszone, łuskane, nawet bez skórki lub dzielone;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0713 60 00;Nikla indyjska (Cajanus cajan), suszony, łuskany, nawet bez skórki lub dzielony;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
@@ -133,7 +133,7 @@ IdCN;NazwaCN;OpisCN;UwagaCN;IdStatus;Status;DataDodania;DodanyPrzez;DataModyfika
 0803 90 11;Plátano de Canarias, świeże;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0803 90 19;Banany, świeże (z wył. plantanów i Plátano de Canarias);;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0804 10 00;Daktyle, świeże lub suszone;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
-0804 20 10;Figi, świeże;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
+0804 20 10;"Figi, świeże";;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0804 30 00;Ananasy, świeże lub suszone;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0804 40 00;Awokado, świeże lub suszone;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
 0804 50 00;Guawa, mango i smaczelina, świeże lub suszone;;;D;Dodany;2025-04-13 00:57:18;Darek Osuch;;;;
